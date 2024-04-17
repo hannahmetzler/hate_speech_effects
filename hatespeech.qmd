@@ -227,7 +227,7 @@ Positiv:
 \[Bild double edged sword\]
 :::
 
-## Was verändern Soziale Medien?
+# Was verändern Soziale Medien?
 
 -   Sie machen Debatten und Verhalten messbar: Reale Probleme, die online sichtbar werden.
     -   Datenspuren von Hassrede und Diskrimination.
@@ -269,7 +269,7 @@ Chris Bail: Social Media Prism Petersen MB, Osmundsen M, Bor A. 2021. Beyond pop
 -   General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
 
 
-## Algorithmen:
+# Algorithmen:
 
 US 2020 Facebook and Instagram election Study
 
@@ -301,13 +301,13 @@ Guess et al., Science, 2023: reverse chronological order
 Gonzalez-Bailon et al, Science, 2023
 :::
 
-## Echokammern? 
+# Echokammern? 
 
 - Strong variance (Nyhan et al., 2023)
   - 20.6% of Facebook users get more than 75% of exposure from link-minded sources
   - 23.1% of the users receive 25% or less from like-minded sources
-- Reducing exposure to like-minded sources (echo chambers) is not the solution to reduce polarization
-- But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives
+- Reducing exposure to like-minded sources (echo chambers) is not the solution to reduce polarization (Bail et al., 2018)
+- But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives (Gonzalez et al., 2023)
 
 
 
