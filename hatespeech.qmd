@@ -1,9 +1,9 @@
 ---
 title: "Die Rolle von sozialen Medien in öffentlichen Debatten: Wut & Hassrede"
-author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/xxx"
+author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/hate_speech_effects"
 date: "18 April 2024"
 format: 
-  pdf:
+  html:
   # revealjs: 
   #   seal: false
   #   transition: 'slide'
@@ -197,7 +197,7 @@ Polarisierung
 
 ### Richtung 1: Reale Events erhöhen Hassrede in sozialen Medien
 
-![](images/journal.pone.0278511.g005.PNG)
+![](images/journal.pone.0278511.g004.PNG)
 
 -   Aktuelle Beispiele:
     -   Israel - Hamas Konflikt
