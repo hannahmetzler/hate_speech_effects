@@ -1,0 +1,313 @@
+---
+title: "Die Rolle von sozialen Medien in öffentlichen Debatten: Wut & Hassrede"
+author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/xxx"
+date: "18 April 2024"
+format: 
+  pdf:
+  # revealjs: 
+  #   seal: false
+  #   transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    # incremental: true
+    # aspect-ratio: 16:9
+    # slide-number: true
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+#     data-background-size: cover
+#     data-background-opacity: "0.5"
+
+#editor
+editor: visual
+---
+
+# Do debates on social media influence behavior in the real world?
+
+## Interview Fragen mit Stichwort-Antworten
+
+-   Was machen Soziale Medien mit unserer Debattenkultur?
+
+    -   Verzerren der Wirkichkeit: Extreme werden sichtbar
+    -   Mehr affektive Polarisierung, ohne tatsächliche Polarisierung
+
+-   Woher kommt die Wut der Menschen - wird diese möglicherweise online geschürt?
+
+    -   Sie kommt aus Konflikten in der realen Welt, wird aber online stärker sichtbar. Diese Sichtbarkeit verstärkt den (falschen) Eindruck, dass alle wütend sind.
+
+-   Gab es die Wut immer schon und hat sie online nur ein Sprachrohr gefunden?
+
+    -   Es gab immer schon gesellschaftliche Konflikte. Social Media machen Debatten darüber sichtbar, und rücken diese sogar zu sehr in's Zentrum. Menschen die zufrieden sind, und beide Seiten einer Debatte verstehen können, melden sich dort nicht zu Wort.
+
+# Was ist Hassrede?
+
+"Äußerungen, die beleidigend, respektlos oder übermäßig negativ sind oder die eine Person oder Gruppe aufgrund von Merkmalen wie Rasse, ethnischer Zugehörigkeit, Geschlecht, sexueller Orientierung, Nationalität und Religion angreifen oder herabsetzen"
+
+::: footer
+Siegel AA, Badaan V. 2020. \# No2Sectarianism: experimental approaches to reducing sectarian hate speech online. Am Polit Sci Rev. 114:837–855. 
+Windisch S, Wiedlitzka S, Olaghere A, Jenaway E. 2022. Online interventions for reducing hate speech and cyberhate: a systematic review. Campbell Syst Rev. 18:e1243.
+:::
+
+# Wie groß ist das Problem der Hassrede auf sozialen Medien?
+
+Ergebnis Nr 1: Sehr wenige Daten. Keine Eingikeit bei der Definition.
+
+Warum?
+
+## Datenlage und Gesetze
+
+-   Gesetzeslage in der EU, Deutschland und Österreich ändert sich erst in den letzten Jahren, Oft noch keine Zahlen zu vor 2020.
+    -   Netzwerkdurchsetzungsgesetz (NetzDG) erst seit 2017 in Deutschland
+    -   [Extending EU crimes to hate speech and hate crime](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/extending-eu-crimes-hate-speech-and-hate-crime_en): 2021
+    -   erster Polizei Report Österreich aus 2021
+
+## Was sagen die wenigen Daten?
+
+-   Österreich: ca 20% aller registrierten "Hate Crimes" waren 2021 im Internet [Report Bundesministerium](https://www.bmi.gv.at/408/Projekt/files/218_2021_Hate_Crime_Bericht_2021_GESAMT_V20220510_barrierefrei.pdf): besonders antisemitische Verhetzung, auch Hautfarbe, Weltanschauen, Behinderung zu ca 25-30% online.
+-   Hate Crime on & offline in 2021: 61 Straftaten/100.000 Einwohner (5464 gesamt)
+
+Schätzung aus internationalen Studien:
+
+-   2020 study found 1150 online hate communities ([Lupu et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278511))
+-   Frequency of hate in these communities in 2019-2020: 30% - das ist ein upper limit, höher wird es nirgends
+
+![](images/journal.pone.0278511.g002.PNG)
+
+## Hassrede rund um politische Nachrichten und Postings
+
+-   Germany: [Haim & Hoven, 2022](https://journalqd.org/article/view/3528)
+
+-   Sehr breite großzügige Definition von Hate Speech. Zu breit?
+
+    -   z.B. zu den Versäumnissen der Regierung "Sowas nenne ich asozial."
+    -   z.B. "Die Kinder hätten nicht so werden müssen, da haben alle Ämter über Jahrzehnte versagt!"
+
+### Ergebnisse Haufigkeit Hassrede
+
+-   Kommentare unter Artikeln zu "Klima" in 4 großen Nachrichtenforen (Welt, TAZ, FAZ, Zeit): 23%
+-   YouTube comments zu Videos lokaler Politiker: 15%
+-   Tweets von/an Parlament Politikern: 20%
+-   Großteil "Schlechtreden von Ideen und Verhalten"
+-   3-4% sind Beleidigungen
+
+![](images/Haim2022_Youtube_hate_speech.svg)
+
+### Anteil politischer Inhalte auf (sozialen) Medien
+
+-   2.7% aller Videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
+-   In Kommentaren dazu ca 15% Hassrede
+
+![](images/McGrady2023_Youtube_video_categories.png)
+
+# Wissenschaftliche Datenlage zu den möglichen Effekte von sozialen Medien und Internet
+
+-   Rolle von Social Media ist komplex
+-   Wissenschaftliche Ergebnisse sind gemischt
+-   Neue Medien waren immer schon im Verdacht
+-   Medien können für gute und schlechte Zwecke verwendet werden
+-   Social Medien sind komplexer, weil User Information teilen, nicht Medien selbst, Macht der Platformen liegt im Steuern des Informationsflusses
+
+::: footer
+[Lorenz-Spreen et al., 2022](https://www.nature.com/articles/s41562-022-01460-1)
+:::
+
+### Positive Effekte:
+
+-   politisches Wissen
+-   politische Teilhabe
+-   Lesen verschiedener Nachrichtenquellen, mehr Bandbreite
+-   Politisches Meinunsäußerungen: leichter auf social media
+
+### Negative Effekte:
+
+-   politische Meinungsäußerung: Spirale des Schweigens: Eigene Meinung nicht äußern, weil Eindruck dass zu anders als die Norm
+-   Polarisierung (mit Ausnahmen wie Bosnia Herzegowina)
+-   Populismus
+-   Online Hassrede - read
+-   Vertrauen in Institutionen - read
+
+# Kausalität
+
+-   Fast alle Studien sind Korrelationen (Experimente sind nicht möglich)
+
+-   Während Anstieg der Nutzung sozialer Medien seit 2005 haben sich auch viele andere Dinge verändert, die die Debattenkultur verändern könnten.
+
+    -   Klimawandel
+    -   Populismus (Haider etc. gab es schon davor)
+    -   Wirtschaftskrise 2008 etc
+    -   COVID-19 Pandemie
+    -   Israel-Hamas Konflikt
+    -   Ukraine-Russland Krieg
+    -   etc.
+
+## 2 wichtige Fragen um das Problem zu verstehen
+
+1.  Gibt es einen Anstieg von Anfeindungen, Polarisierung und Aggression?
+2.  Was sind die Ursachen des Anstiegs?
+
+-   Wann hat der Anstieg begonnen?
+
+## 1. Frage: Ist Aggression und Anfeindung mehr geworden?
+
+### Österreich
+
+-   Daten zeigen keine zunehmende Polarisierung [Lux & Zandonella, Sora](https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/wie-polarisiert-sind-wir-wirklich-1191.html)
+    -   Mehrheit ist sich einig: Homosexualität, Transsexualität, sozialstaatliche Umverteilung
+    -   Aber es gibt Triggerthemen (Frauenquoten, Gendern, Migration, Klima). Auch hier bleibt die "Spaltung" gleich seit 2006 (Begin sozialer Medien), und ist nicht so stark wie man aus sozialen medien vermuten würde.
+-   [Straftaten](https://de.statista.com/statistik/daten/studie/294088/umfrage/angezeigte-faelle-strafbarer-handlungen-in-oesterreich/) insgesamt sinken seit 2013 leicht
+-   [Gewaltdelikte](https://de.statista.com/statistik/daten/studie/294135/umfrage/gewaltdelikte-in-oesterreich/) sind stabil von 2013-2021 (leichter Anstieg in 2022)
+-   \[Rechte Straftaten\](<https://de.statista.com/statistik/daten/studie/881240/umfrage/rechte-straftaten-in-oesterreich/> waren 2015/2016 hoch, seither wieder gefallen. Flüchtlichtlinskrise?
+-   [Survey](https://fra.europa.eu/en/data-and-maps/2020/lgbti-survey-data-explorer) zur Erfahrung von Cyberharrassment der LGBTI community: Österreich, letzte 5 Jahre: 14%, letzte 12 Monate: 11%
+    -   Hier gibt es auch andere Daten aus der EU
+-   [Hate Crime Reporting OSCE](https://hatecrime.osce.org/hate-crime-data): 2016-2022: 8, 13, 13, 22, 7, 19, 19
+
+### USA
+
+Polarisierung [Pew Research Center, 2014](https://www.pewresearch.org/politics/2014/06/12/political-polarization-in-the-american-public/)
+
+-   1994-2014 (vor den sozialen Medien): Eine wachsende Minderheit hat durchgängig konservative oder liberale Meinungen (12% konservativ, 9% liberal in 2014)
+-   Ideoloische Separation der beiden Parteien vergrößert sich (weniger Überlappungen)
+-   Die andere Partei als Gefahr für die Nation sehen 27% der Demokraten und 36% der Republikaner (politisch aktive Menschen)
+-   Mehrheit hat keine klar konservativen oder liberalen Meinung und ist für Kompromisse
+-   Antipathie für die andere Partei steigt viel stärker als die eigentliche Meinungsverschiedenheit
+    -   Freundesgruppen segregierter
+
+Gewalt unter jungen Menschen (starke Social Media User): 1993-2015
+
+-   Rate der Gewaltopfer an Schulen (Vergewaltigung, sexuelle Nötigung, Raubüberfälle und Körperverletzung): Reduktion seit 1993
+
+<iframe src="https://ourworldindata.org/grapher/rate-of-violent-victimizations-at-school-us?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## 2. Frage: Ursachen und Wechselwirkungen: Was wissen wir?
+
+### Zeitliche Abfolge:
+
+Soziale Medien gibt es seit:
+
+-   Facebook 2004
+-   YouTube 2005
+-   Twitter 2006
+-   Instagram 2010
+-   Snapchat 2011
+-   TikTok 2016
+
+Polarisierung
+
+-   Polarisierung steigt schon seit den 70er Jahren an ([Beispiel Daten USA](https://www.pewresearch.org/politics/2014/06/12/political-polarization-in-the-american-public/))
+
+### Richtung 1: Reale Events erhöhen Hassrede in sozialen Medien
+
+![](images/journal.pone.0278511.g005.PNG)
+
+-   Aktuelle Beispiele:
+    -   Israel - Hamas Konflikt
+    -   Ukraine Krieg
+
+::: footer
+[Lupu et al., 2023](https://doi.org/10.1371/journal.pone.0278511.g004)
+:::
+
+### Richtung 2: Online Debatten beeinflussen Events in der realen Welt
+
+Negativ:
+
+-   Sturm auf das Kapitol
+-   Suizid einer Ärztin
+-   Facebook Missbrauch in Myanmar, z.B. Rohingya Krise, Militärkampagnen 2017 und Proteste 2021: Misinformation, Hassrede und Aufruf zu Gewalt über Facebook verbreitet
+-   Russland: sperrt Nichtstaatliche Social Media und verbirgt so Attacke auf Ukraine
+
+Positiv:
+
+-   MeeToo
+-   Fridays for Future
+-   Arabischer Frühling
+-   Ukraine: Motivation & Informationskrieg (Lorenz-Spreen et al., 2022)
+
+::: notes
+\[Bild double edged sword\]
+:::
+
+## Was verändern Soziale Medien?
+
+-   Sie machen Debatten und Verhalten messbar: Reale Probleme, die online sichtbar werden.
+    -   Datenspuren von Hassrede und Diskrimination.
+-   Anonymität: physische und psychologische Distanz sind größer
+-   Größe des Internet: riesige Menge an extremem moralischen Inhalten [Robertson et al., 2024](https://osf.io/preprints/psyarxiv/ns34y):
+    -   moralische und extreme Inhalte ziehen Aufmerksamkeit auf sich
+    -   Gewöhungseffekt auf Mitgefühl
+    -   mehr öffentliches Beschämen
+-   Nur Likes, nicht Non-Likes sind möglich. Es sind nur Menschen sichtbar, die Hassrede liken. Der Poster glaubt er hat Unterstützung, und das Opfer sieht potentielle Allierte nicht. Sozile Medien werden als negativere Umgebung wahrgenommen, als sie tatsächlich sind. [Konolova et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293805)
+
+## Fake Polarisierung
+
+-   Scheinbare Polarisierung treibt die affektive Polarisierung an: Menschen mit starken/extremen Meinungen sind am sichtbarsten, weil sie sich zu Wort melden, motiviert sind zu diskutieren. Toxisches Verhalten bekommt die meiste Aufmerksamkeit. Deswegen scheint Polarisierung und Hassrede etc schlimmer als es wirklich ist, weil wir nur die Extreme sehen. Deswegen fangen wir an, die "Anderen" tatsächlich weniger zu mögen, weniger zu verstehen, negative Gefühle wie Hass werden stärker.
+
+-   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. (Chris Bail 2018)
+
+-   Wenn wir über soziale Medien allerdings moderate Meinungen mitbekommen, moderate Mitglieder anderer Gruppen, kann das in einem stark politisch polarisierten Klima auch Gefühle der Polarisierung verringern. (Bosnia Herzegowina: stärkere affektive Polarisierung nach social media Abstinenz.
+
+## Psychologische Wurzeln von Hassrede
+
+-   Suche nach sozialem Status & Anerkennung
+-   Menschen sind Gruppentiere
+-   Wettbewerb von Gruppen auf sozialen Medien (wenig persönliche Information, Anonymität)
+
+::: notes
+Chris Bail: Social Media Prism Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status-seeking and extreme political discontent. In: Forgas JP, Crano WD, editors. The psychology of populism. Milton Park, Abingdon, Oxfordshire: Routledge. p. 62–80.
+:::
+
+# Überlappung mit Misinformation
+
+-   Harmful speech overlaps with misinformation sharing ([Mosleh et al., 2024](https://doi.org/10.1093/pnasnexus/pgae111))
+
+-   US study for 1 week ([Lin et al, 2024](https://osf.io/preprints/psyarxiv/u8anb))
+
+-   In a representative sample of US Facebook users (350.000?), only 5% shared any misinformation
+
+-   Among people who previoulsy shared low-quality news, 70% shared low-quality news
+
+-   General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
+
+
+## Algorithmen:
+
+US 2020 Facebook and Instagram election Study
+
+- 3 Monate Algorithmus abschalten in 2020, oder verändern (down ranking like minded content, kein weiter teilen)
+- große Stichproben (>20.000)
+- Alle 3 Veränderungen des Algorithmus: Kein Effekte auf affektive Polarisierung und Meinungspolarisierung
+- Ansonsten kleine Effekte
+- Algorithmen die gleichgesinnte Inhalte reduzieren: 
+  - Weniger Misinformation & Hassrede
+- Menschliche Re-shares nicht mehr möglich: 
+  - weniger politische Nachrichten (inklusive Misinformation)
+  - mehr "uncivil" Inhalte
+  - weniger Wissen zu Nachrichten
+- Gar kein Algorithmus mehr: 
+  - Mehr Misinformation, mehr politische Inhalte
+  - weniger uncivil
+  - weniger Aktivität
+  
+Die Rolle von Menschen: 
+
+- suchen aktiv gleichgesinnte Inhalt und Gruppen. Downranking reduzierte das Lesen von gleichgesinnten Inhalten nur von 54% in der Kontrollgruppe auf 36% in der Algorithmus-Gruppe. 
+- suchen Partisan Inhalte auf Google (Robertson et al. (2023))
+
+
+::: footer
+Nyhan et al., Nature, 2023: downranking content from like-minded sources
+Guess et al., Science, 2023: removing re-shared content from the feed
+Guess et al., Science, 2023: reverse chronological order
+Gonzalez-Bailon et al, Science, 2023
+:::
+
+## Echokammern? 
+
+- Strong variance (Nyhan et al., 2023)
+  - 20.6% of Facebook users get more than 75% of exposure from link-minded sources
+  - 23.1% of the users receive 25% or less from like-minded sources
+- Reducing exposure to like-minded sources (echo chambers) is not the solution to reduce polarization
+- But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives
+
+
+
