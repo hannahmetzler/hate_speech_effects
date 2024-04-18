@@ -22,22 +22,32 @@ title-slide-attributes:
 editor: visual
 ---
 
-# Do debates on social media influence behavior in the real world?
+# Haben Wut und Agression auf den sozialen Medien einen Effekt auf Diskussionen und Verhalten in der Offline Welt?
 
 ## Interview Fragen mit Stichwort-Antworten
 
 -   Was machen Soziale Medien mit unserer Debattenkultur?
 
-    -   Verzerren der Wirkichkeit: Extreme werden sichtbar
-    -   Mehr affektive Polarisierung, ohne tatsächliche Polarisierung
+    -   Verzerren der Wirkichkeit: Extreme Meinungen und Emotionen werden sichtbar
+    -   Individuen, die Anerkennung und Status wollen, und bereit sind, durch Aggression und Einschüchterung dorthin zu kommen, fühlen sich von sozialen Medien angezogen
+    -   Aggressives Verhalten hat online weniger Konsequenzen (Strafen etc)
+    -   Verzerrtes Bild der Wirklichkeit:
+        -   Aggressive Individuen sind besonders sichtbar
+        -   Mehr emotionale Polarisierung, Hass auf andere Gruppen, ohne tatsächliche Meinungs-Polarisierung
 
 -   Woher kommt die Wut der Menschen - wird diese möglicherweise online geschürt?
 
     -   Sie kommt aus Konflikten in der realen Welt, wird aber online stärker sichtbar. Diese Sichtbarkeit verstärkt den (falschen) Eindruck, dass alle wütend sind.
+    -   Welche Individuen sind wütend und aggressiv?
+        -   Verlust von Status in der aktuellen Gesellschaft (junge Männer)
+        -   Angst vor Verlust von Privilegien (Auto als Status Symbol - Klimawandel)
+        -   Rechte politische Parteien profitieren von dieser Frustration
 
 -   Gab es die Wut immer schon und hat sie online nur ein Sprachrohr gefunden?
 
-    -   Es gab immer schon gesellschaftliche Konflikte. Social Media machen Debatten darüber sichtbar, und rücken diese sogar zu sehr in's Zentrum. Menschen die zufrieden sind, und beide Seiten einer Debatte verstehen können, melden sich dort nicht zu Wort.
+    -   Es gab immer schon gesellschaftliche Konflikte. Social Media machen Debatten darüber sichtbar, und rücken diese sogar zu sehr in's Zentrum.
+    -   Menschen die zufrieden sind, und beide Seiten einer Debatte verstehen können, melden sich dort nicht zu Wort. Die "leise Mehrheit"
+    -   Für aggressive, nach Status strebende Menschen bieten sich online neue Möglichkeiten
 
 # Was ist Hassrede?
 
@@ -68,7 +78,7 @@ Warum?
 Schätzung aus internationalen Studien:
 
 -   2020 study found 1150 online hate communities ([Lupu et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278511))
--   Frequency of hate in these communities in 2019-2020: 30% - das ist ein upper limit, höher wird es nirgends
+-   Hassreade in diesen Communities 2019-2020: 30% - das ist eine Obergrenze, höher wird es nirgends.
 
 ![](images/journal.pone.0278511.g002.PNG)
 
@@ -94,17 +104,18 @@ Schätzung aus internationalen Studien:
 ### Anteil politischer Inhalte auf (sozialen) Medien
 
 -   2.7% aller Videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
--   In Kommentaren dazu ca 15% Hassrede
+-   In Kommentaren dazu ca 15% Hassrede ([Haim & Hoven, 2022](https://journalqd.org/article/view/3528))
 
 ![](images/McGrady2023_Youtube_video_categories.png)
 
 # Wissenschaftliche Datenlage zu den möglichen Effekte von sozialen Medien und Internet
 
 -   Rolle von Social Media ist komplex
--   Wissenschaftliche Ergebnisse sind gemischt
+-   Wissenschaftliche Ergebnisse sind gemischt: positive und negative
 -   Neue Medien waren immer schon im Verdacht
 -   Medien können für gute und schlechte Zwecke verwendet werden
--   Social Medien sind komplexer, weil User Information teilen, nicht Medien selbst, Macht der Platformen liegt im Steuern des Informationsflusses
+-   Social Medien sind komplizierter, weil User Information teilen, nicht Medien selbst
+    -   Macht der Platformen liegt im Steuern des Informationsflusses
 
 ::: footer
 [Lorenz-Spreen et al., 2022](https://www.nature.com/articles/s41562-022-01460-1)
@@ -122,8 +133,8 @@ Schätzung aus internationalen Studien:
 -   politische Meinungsäußerung: Spirale des Schweigens: Eigene Meinung nicht äußern, weil Eindruck dass zu anders als die Norm
 -   Polarisierung (mit Ausnahmen wie Bosnia Herzegowina)
 -   Populismus
--   Online Hassrede - read
--   Vertrauen in Institutionen - read
+-   Online Hassrede
+-   Vertrauen in Institutionen
 
 # Kausalität
 
@@ -213,27 +224,26 @@ Polarisierung
 Negativ:
 
 -   Sturm auf das Kapitol
--   Suizid einer Ärztin
+-   Suizid einer Ärztin während Covid-19 (check)
 -   Facebook Missbrauch in Myanmar, z.B. Rohingya Krise, Militärkampagnen 2017 und Proteste 2021: Misinformation, Hassrede und Aufruf zu Gewalt über Facebook verbreitet
 -   Russland: sperrt Nichtstaatliche Social Media und verbirgt so Attacke auf Ukraine
 
 Positiv:
 
 -   MeeToo
--   Fridays for Future
--   Arabischer Frühling
--   Ukraine: Motivation & Informationskrieg (Lorenz-Spreen et al., 2022)
 
-::: notes
-\[Bild double edged sword\]
-:::
+-   Fridays for Future
+
+-   Arabischer Frühling
+
+-   Ukraine: Motivation & Informationskrieg (Lorenz-Spreen et al., 2022)
 
 # Was verändern Soziale Medien?
 
 ## Messbarkeit
 
 -   Sie machen Debatten und Verhalten messbar: Reale Probleme, die online sichtbar werden.
--   Es gibt zum ersten Mal Datenspuren von Hassrede und Diskrimination.
+-   Es gibt zum ersten Mal Datenspuren von Hassrede und Diskrimination. Wir wissen nicht, wie viel es davon früher gab.
 
 ## Scheinbare Polarisierung und Sichtbarkeit von Extremen
 
@@ -243,29 +253,26 @@ Positiv:
 
     -   stärkere Öffentlichkeit
 
--   Feindselige politische Diskussionen sind von Status getriebenen Individuen angetrieben, die politisch motiviert sind, und online und offline gleich feindselig sind, aber online sichtbarer sind. [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885).
+-   Feindselige politische Diskussionen sind von Status motivierten Individuen angetrieben, die politisch motiviert sind, und online und offline gleich feindselig sind, aber online sichtbarer sind. [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885).
 
-    -   Angst machen ist eine weit verbreitete Strategie, um Status zu erreichen.
+    -   Angst machen ist eine weit verbreitete Strategie, um Status zu bekommen.
 
 -   Toxisches Verhalten bekommt die meiste Aufmerksamkeit. Deswegen scheint Polarisierung und Hassrede etc schlimmer als es wirklich ist, weil wir nur die Extreme sehen. Deswegen fangen wir an, die "Anderen" tatsächlich weniger zu mögen, weniger zu verstehen, negative Gefühle wie Hass werden stärker. Die scheinbare politische Polarisierung und Aggression treibt die affektive Polarisierung an.
 
 -   Zum Teil trägt auch das Design von Platformen bei: Nur Likes, nicht Non-Likes sind möglich. Es sind nur Menschen sichtbar, die Hassrede liken. Der Poster glaubt er hat Unterstützung, und das Opfer sieht potentielle Allierte nicht. Sozile Medien werden als negativere Umgebung wahrgenommen, als sie tatsächlich sind. [Konolova et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293805)
 
-### Ist der Mensch nicht für Online gemacht? Weniger Evidenz
-
--   Selektionshypothese: Bösartige Individueen nützen Social Media mehr, weil ihr Verhalten dort weniger Folgen hat (Strafe nicht wahrscheinlich, Anonymität, keine physische Nähe, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885)).
-
--   Feindseliges Verhalten online wird als schmerzhafter wahrgenommen (Wahrnehmungshypothese, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885))
-
-## Mismatch Hypothese: Menschen sind nicht für Online Interaktion gemacht
+## Ist der Mensch nicht für Online gemacht? Weniger Evidenz. 
 
 -   Wir sind für Interaktion in kleinen sozialen Gruppen gemacht. Für Kommunikation mit non-verbalen Signalen.
 
 -   Bor & Petersen 2022 finden keine Evidenz für die Hypothese, dass die Online Umgebung und diejenige, and die Menschen adaptiert sind, nicht zusammen passen
 
-```{=html}
-<!-- -->
-```
+-   Selektionshypothese: Bösartige Individueen nützen Social Media mehr, weil ihr Verhalten dort weniger Folgen hat (Strafe nicht wahrscheinlich, Anonymität, keine physische Nähe, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885)).
+
+-   Feindseliges Verhalten online wird als schmerzhafter wahrgenommen (Wahrnehmungshypothese, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885))
+
+## Allgemeine Faktoren
+
 -   Anonymität, Distanz, weniger persönliche Information:
 
     -   physische und psychologische Distanz sind größer
@@ -289,7 +296,9 @@ Positiv:
 -   Wettbewerb von Gruppen auf sozialen Medien (wenig persönliche Information, Anonymität)
 
 ::: notes
-Chris Bail: Social Media Prism Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status-seeking and extreme political discontent. In: Forgas JP, Crano WD, editors. The psychology of populism. Milton Park, Abingdon, Oxfordshire: Routledge. p. 62–80.
+Chris Bail: Social Media Prism
+
+Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status-seeking and extreme political discontent. In: Forgas JP, Crano WD, editors. The psychology of populism. Milton Park, Abingdon, Oxfordshire: Routledge. p. 62–80.
 :::
 
 ## Echokammern reduzieren? Keine gute Idee
