@@ -44,8 +44,7 @@ editor: visual
 "Äußerungen, die beleidigend, respektlos oder übermäßig negativ sind oder die eine Person oder Gruppe aufgrund von Merkmalen wie Rasse, ethnischer Zugehörigkeit, Geschlecht, sexueller Orientierung, Nationalität und Religion angreifen oder herabsetzen"
 
 ::: footer
-Siegel AA, Badaan V. 2020. \# No2Sectarianism: experimental approaches to reducing sectarian hate speech online. Am Polit Sci Rev. 114:837–855. 
-Windisch S, Wiedlitzka S, Olaghere A, Jenaway E. 2022. Online interventions for reducing hate speech and cyberhate: a systematic review. Campbell Syst Rev. 18:e1243.
+Siegel AA, Badaan V. 2020. \# No2Sectarianism: experimental approaches to reducing sectarian hate speech online. Am Polit Sci Rev. 114:837–855. Windisch S, Wiedlitzka S, Olaghere A, Jenaway E. 2022. Online interventions for reducing hate speech and cyberhate: a systematic review. Campbell Syst Rev. 18:e1243.
 :::
 
 # Wie groß ist das Problem der Hassrede auf sozialen Medien?
@@ -176,7 +175,9 @@ Gewalt unter jungen Menschen (starke Social Media User): 1993-2015
 
 -   Rate der Gewaltopfer an Schulen (Vergewaltigung, sexuelle Nötigung, Raubüberfälle und Körperverletzung): Reduktion seit 1993
 
-<iframe src="https://ourworldindata.org/grapher/rate-of-violent-victimizations-at-school-us?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/rate-of-violent-victimizations-at-school-us?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
 
 ## 2. Frage: Ursachen und Wechselwirkungen: Was wissen wir?
 
@@ -229,24 +230,59 @@ Positiv:
 
 # Was verändern Soziale Medien?
 
+## Messbarkeit
+
 -   Sie machen Debatten und Verhalten messbar: Reale Probleme, die online sichtbar werden.
-    -   Datenspuren von Hassrede und Diskrimination.
--   Anonymität: physische und psychologische Distanz sind größer
--   Größe des Internet: riesige Menge an extremem moralischen Inhalten [Robertson et al., 2024](https://osf.io/preprints/psyarxiv/ns34y):
+-   Es gibt zum ersten Mal Datenspuren von Hassrede und Diskrimination.
+
+## Scheinbare Polarisierung und Sichtbarkeit von Extremen
+
+-   Menschen mit starken/extremen Meinungen sind am sichtbarsten, weil sie sich zu Wort melden, motiviert sind zu diskutieren und sozialen Status zu erreichen.
+
+    -   stärkere Verbindung (connectivity)
+
+    -   stärkere Öffentlichkeit
+
+-   Feindselige politische Diskussionen sind von Status getriebenen Individuen angetrieben, die politisch motiviert sind, und online und offline gleich feindselig sind, aber online sichtbarer sind. [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885).
+
+    -   Angst machen ist eine weit verbreitete Strategie, um Status zu erreichen.
+
+-   Toxisches Verhalten bekommt die meiste Aufmerksamkeit. Deswegen scheint Polarisierung und Hassrede etc schlimmer als es wirklich ist, weil wir nur die Extreme sehen. Deswegen fangen wir an, die "Anderen" tatsächlich weniger zu mögen, weniger zu verstehen, negative Gefühle wie Hass werden stärker. Die scheinbare politische Polarisierung und Aggression treibt die affektive Polarisierung an.
+
+-   Zum Teil trägt auch das Design von Platformen bei: Nur Likes, nicht Non-Likes sind möglich. Es sind nur Menschen sichtbar, die Hassrede liken. Der Poster glaubt er hat Unterstützung, und das Opfer sieht potentielle Allierte nicht. Sozile Medien werden als negativere Umgebung wahrgenommen, als sie tatsächlich sind. [Konolova et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293805)
+
+### Ist der Mensch nicht für Online gemacht? Weniger Evidenz
+
+-   Selektionshypothese: Bösartige Individueen nützen Social Media mehr, weil ihr Verhalten dort weniger Folgen hat (Strafe nicht wahrscheinlich, Anonymität, keine physische Nähe, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885)).
+
+-   Feindseliges Verhalten online wird als schmerzhafter wahrgenommen (Wahrnehmungshypothese, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885))
+
+## Mismatch Hypothese: Menschen sind nicht für Online Interaktion gemacht
+
+-   Wir sind für Interaktion in kleinen sozialen Gruppen gemacht. Für Kommunikation mit non-verbalen Signalen.
+
+-   Bor & Petersen 2022 finden keine Evidenz für die Hypothese, dass die Online Umgebung und diejenige, and die Menschen adaptiert sind, nicht zusammen passen
+
+```{=html}
+<!-- -->
+```
+-   Anonymität, Distanz, weniger persönliche Information:
+
+    -   physische und psychologische Distanz sind größer
+
+    -   keine Face-to-Face Interaktion (Empathie entsteht durch Nähe), und Empathie wirkt gegen Aggression
+
+    -   keine non-verbalen Signale
+
+    -   Daraus resultiert ein online Emotionsregulationsproblem: normale Menschen sind online aggressiver
+
+-   Größe von sozialen Netzwerken online: riesige Menge an extremem moralischen Inhalten [Robertson et al., 2024](https://osf.io/preprints/psyarxiv/ns34y)
+
     -   moralische und extreme Inhalte ziehen Aufmerksamkeit auf sich
     -   Gewöhungseffekt auf Mitgefühl
     -   mehr öffentliches Beschämen
--   Nur Likes, nicht Non-Likes sind möglich. Es sind nur Menschen sichtbar, die Hassrede liken. Der Poster glaubt er hat Unterstützung, und das Opfer sieht potentielle Allierte nicht. Sozile Medien werden als negativere Umgebung wahrgenommen, als sie tatsächlich sind. [Konolova et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293805)
 
-## Fake Polarisierung
-
--   Scheinbare Polarisierung treibt die affektive Polarisierung an: Menschen mit starken/extremen Meinungen sind am sichtbarsten, weil sie sich zu Wort melden, motiviert sind zu diskutieren. Toxisches Verhalten bekommt die meiste Aufmerksamkeit. Deswegen scheint Polarisierung und Hassrede etc schlimmer als es wirklich ist, weil wir nur die Extreme sehen. Deswegen fangen wir an, die "Anderen" tatsächlich weniger zu mögen, weniger zu verstehen, negative Gefühle wie Hass werden stärker.
-
--   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. (Chris Bail 2018)
-
--   Wenn wir über soziale Medien allerdings moderate Meinungen mitbekommen, moderate Mitglieder anderer Gruppen, kann das in einem stark politisch polarisierten Klima auch Gefühle der Polarisierung verringern. (Bosnia Herzegowina: stärkere affektive Polarisierung nach social media Abstinenz.
-
-## Psychologische Wurzeln von Hassrede
+# Psychologische Wurzeln von Hassrede
 
 -   Suche nach sozialem Status & Anerkennung
 -   Menschen sind Gruppentiere
@@ -255,6 +291,18 @@ Positiv:
 ::: notes
 Chris Bail: Social Media Prism Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status-seeking and extreme political discontent. In: Forgas JP, Crano WD, editors. The psychology of populism. Milton Park, Abingdon, Oxfordshire: Routledge. p. 62–80.
 :::
+
+## Echokammern reduzieren? Keine gute Idee
+
+-   Stärke von Echokammern variiert sehr zwischen verschiedenen Usern (Nyhan et al., 2023)
+
+    -   Nur 20.6% der Facebook User bekommen über 75% der Nachrichten aus gleichgesinnten Quellen
+    -   Bei 23.1% der User sind weniger als 25% der gesehenen News von gleichgesinnten Quellen
+    -   But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives (Gonzalez et al., 2023)
+
+-   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. (Bail et al. 2018)
+
+-   Wenn wir über soziale Medien allerdings moderate Meinungen mitbekommen, moderate Mitglieder anderer Gruppen, kann das in einem stark politisch polarisierten Klima auch Gefühle der Polarisierung verringern. (Bosnia Herzegowina: stärkere affektive Polarisierung nach social media Abstinenz.)
 
 # Überlappung mit Misinformation
 
@@ -268,46 +316,30 @@ Chris Bail: Social Media Prism Petersen MB, Osmundsen M, Bor A. 2021. Beyond pop
 
 -   General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
 
-
 # Algorithmen:
 
 US 2020 Facebook and Instagram election Study
 
-- 3 Monate Algorithmus abschalten in 2020, oder verändern (down ranking like minded content, kein weiter teilen)
-- große Stichproben (>20.000)
-- Alle 3 Veränderungen des Algorithmus: Kein Effekte auf affektive Polarisierung und Meinungspolarisierung
-- Ansonsten kleine Effekte
-- Algorithmen die gleichgesinnte Inhalte reduzieren: 
-  - Weniger Misinformation & Hassrede
-- Menschliche Re-shares nicht mehr möglich: 
-  - weniger politische Nachrichten (inklusive Misinformation)
-  - mehr "uncivil" Inhalte
-  - weniger Wissen zu Nachrichten
-- Gar kein Algorithmus mehr: 
-  - Mehr Misinformation, mehr politische Inhalte
-  - weniger uncivil
-  - weniger Aktivität
-  
-Die Rolle von Menschen: 
+-   3 Monate Algorithmus abschalten in 2020, oder verändern (down ranking like minded content, kein weiter teilen)
+-   große Stichproben (\>20.000)
+-   Alle 3 Veränderungen des Algorithmus: Kein Effekte auf affektive Polarisierung und Meinungspolarisierung
+-   Ansonsten kleine Effekte
+-   Algorithmen die gleichgesinnte Inhalte reduzieren:
+    -   Weniger Misinformation & Hassrede
+-   Menschliche Re-shares nicht mehr möglich:
+    -   weniger politische Nachrichten (inklusive Misinformation)
+    -   mehr "uncivil" Inhalte
+    -   weniger Wissen zu Nachrichten
+-   Gar kein Algorithmus mehr:
+    -   Mehr Misinformation, mehr politische Inhalte
+    -   weniger uncivil
+    -   weniger Aktivität
 
-- suchen aktiv gleichgesinnte Inhalt und Gruppen. Downranking reduzierte das Lesen von gleichgesinnten Inhalten nur von 54% in der Kontrollgruppe auf 36% in der Algorithmus-Gruppe. 
-- suchen Partisan Inhalte auf Google (Robertson et al. (2023))
+Die Rolle von Menschen:
 
+-   suchen aktiv gleichgesinnte Inhalt und Gruppen. Downranking reduzierte das Lesen von gleichgesinnten Inhalten nur von 54% in der Kontrollgruppe auf 36% in der Algorithmus-Gruppe.
+-   suchen Partisan Inhalte auf Google (Robertson et al. (2023))
 
 ::: footer
-Nyhan et al., Nature, 2023: downranking content from like-minded sources
-Guess et al., Science, 2023: removing re-shared content from the feed
-Guess et al., Science, 2023: reverse chronological order
-Gonzalez-Bailon et al, Science, 2023
+Nyhan et al., Nature, 2023: downranking content from like-minded sources Guess et al., Science, 2023: removing re-shared content from the feed Guess et al., Science, 2023: reverse chronological order Gonzalez-Bailon et al, Science, 2023
 :::
-
-# Echokammern? 
-
-- Strong variance (Nyhan et al., 2023)
-  - 20.6% of Facebook users get more than 75% of exposure from link-minded sources
-  - 23.1% of the users receive 25% or less from like-minded sources
-- Reducing exposure to like-minded sources (echo chambers) is not the solution to reduce polarization (Bail et al., 2018)
-- But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives (Gonzalez et al., 2023)
-
-
-
