@@ -320,7 +320,7 @@ Warum?
 -   Among people who previoulsy shared low-quality news, 70% shared low-quality news
 -   General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
 
-# Rolle von Algorithmen:
+# Rolle von Algorithmen
 
 US 2020 Facebook and Instagram election Study
 
@@ -345,5 +345,8 @@ Die Rolle von Menschen:
 -   suchen Partisan Inhalte auf Google (Robertson et al. (2023))
 
 ::: footer
-Nyhan et al., Nature, 2023: downranking content from like-minded sources Guess et al., Science, 2023: removing re-shared content from the feed Guess et al., Science, 2023: reverse chronological order Gonzalez-Bailon et al, Science, 2023
+[Nyhan et al., Nature, 2023: downranking content from like-minded sources](https://www.nature.com/articles/s41586-023-06297-w)
+[Guess et al., Science, 2023: removing re-shared content from the feed](https://www.science.org/doi/10.1126/science.add8424)
+[Guess et al., Science, 2023: reverse chronological order](https://www.science.org/doi/full/10.1126/science.abp9364)
+[Gonzalez-Bailon et al, Science, 2023](https://www.science.org/doi/10.1126/science.ade7138)
 :::
