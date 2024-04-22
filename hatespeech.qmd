@@ -49,72 +49,14 @@ editor: visual
     -   Menschen die zufrieden sind, und beide Seiten einer Debatte verstehen können, melden sich dort nicht zu Wort. Die "leise Mehrheit"
     -   Für aggressive, nach Status strebende Menschen bieten sich online neue Möglichkeiten
 
-# Was ist Hassrede?
-
-"Äußerungen, die beleidigend, respektlos oder übermäßig negativ sind oder die eine Person oder Gruppe aufgrund von Merkmalen wie Rasse, ethnischer Zugehörigkeit, Geschlecht, sexueller Orientierung, Nationalität und Religion angreifen oder herabsetzen"
-
-::: footer
-Siegel AA, Badaan V. 2020. \# No2Sectarianism: experimental approaches to reducing sectarian hate speech online. Am Polit Sci Rev. 114:837–855. Windisch S, Wiedlitzka S, Olaghere A, Jenaway E. 2022. Online interventions for reducing hate speech and cyberhate: a systematic review. Campbell Syst Rev. 18:e1243.
-:::
-
-# Wie groß ist das Problem der Hassrede auf sozialen Medien?
-
-Ergebnis Nr 1: Sehr wenige Daten. Keine Eingikeit bei der Definition.
-
-Warum?
-
-## Datenlage und Gesetze
-
--   Gesetzeslage in der EU, Deutschland und Österreich ändert sich erst in den letzten Jahren, Oft noch keine Zahlen zu vor 2020.
-    -   Netzwerkdurchsetzungsgesetz (NetzDG) erst seit 2017 in Deutschland
-    -   [Extending EU crimes to hate speech and hate crime](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/extending-eu-crimes-hate-speech-and-hate-crime_en): 2021
-    -   erster Polizei Report Österreich aus 2021
-
-## Was sagen die wenigen Daten?
-
--   Österreich: ca 20% aller registrierten "Hate Crimes" waren 2021 im Internet [Report Bundesministerium](https://www.bmi.gv.at/408/Projekt/files/218_2021_Hate_Crime_Bericht_2021_GESAMT_V20220510_barrierefrei.pdf): besonders antisemitische Verhetzung, auch Hautfarbe, Weltanschauen, Behinderung zu ca 25-30% online.
--   Hate Crime on & offline in 2021: 61 Straftaten/100.000 Einwohner (5464 gesamt)
-
-Schätzung aus internationalen Studien:
-
--   2020 study found 1150 online hate communities ([Lupu et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278511))
--   Hassreade in diesen Communities 2019-2020: 30% - das ist eine Obergrenze, höher wird es nirgends.
-
-![](images/journal.pone.0278511.g002.PNG)
-
-## Hassrede rund um politische Nachrichten und Postings
-
--   Germany: [Haim & Hoven, 2022](https://journalqd.org/article/view/3528)
-
--   Sehr breite großzügige Definition von Hate Speech. Zu breit?
-
-    -   z.B. zu den Versäumnissen der Regierung "Sowas nenne ich asozial."
-    -   z.B. "Die Kinder hätten nicht so werden müssen, da haben alle Ämter über Jahrzehnte versagt!"
-
-### Ergebnisse Haufigkeit Hassrede
-
--   Kommentare unter Artikeln zu "Klima" in 4 großen Nachrichtenforen (Welt, TAZ, FAZ, Zeit): 23%
--   YouTube comments zu Videos lokaler Politiker: 15%
--   Tweets von/an Parlament Politikern: 20%
--   Großteil "Schlechtreden von Ideen und Verhalten"
--   3-4% sind Beleidigungen
-
-![](images/Haim2022_Youtube_hate_speech.svg)
-
-### Anteil politischer Inhalte auf (sozialen) Medien
-
--   2.7% aller Videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
--   In Kommentaren dazu ca 15% Hassrede ([Haim & Hoven, 2022](https://journalqd.org/article/view/3528))
-
-![](images/McGrady2023_Youtube_video_categories.png)
 
 # Wissenschaftliche Datenlage zu den möglichen Effekte von sozialen Medien und Internet
 
 -   Rolle von Social Media ist komplex
 -   Wissenschaftliche Ergebnisse sind gemischt: positive und negative
--   Neue Medien waren immer schon im Verdacht
+-   Neue Medien waren immer schon im Verdacht (auch schon Bücher, Radio, Fernsehen...)
 -   Medien können für gute und schlechte Zwecke verwendet werden
--   Social Medien sind komplizierter, weil User Information teilen, nicht Medien selbst
+-   Social Medien sind noch etwas komplizierter, weil User Information teilen, nicht Medien selbst
     -   Macht der Platformen liegt im Steuern des Informationsflusses
 
 ::: footer
@@ -221,6 +163,8 @@ Polarisierung
 
 ### Richtung 2: Online Debatten beeinflussen Events in der realen Welt
 
+Anekdotische Ereignisse, die mir einfallen: 
+
 Negativ:
 
 -   Sturm auf das Kapitol
@@ -231,11 +175,8 @@ Negativ:
 Positiv:
 
 -   MeeToo
-
 -   Fridays for Future
-
 -   Arabischer Frühling
-
 -   Ukraine: Motivation & Informationskrieg (Lorenz-Spreen et al., 2022)
 
 # Was verändern Soziale Medien?
@@ -247,10 +188,9 @@ Positiv:
 
 ## Scheinbare Polarisierung und Sichtbarkeit von Extremen
 
--   Menschen mit starken/extremen Meinungen sind am sichtbarsten, weil sie sich zu Wort melden, motiviert sind zu diskutieren und sozialen Status zu erreichen.
+-   Menschen mit starken/extremen Meinungen sind am sichtbarsten, weil sie sich zu Wort melden, motiviert sind zu diskutieren und sozialen Status zu erreichen. (Chris Bail, The Social Media Prism)
 
     -   stärkere Verbindung (connectivity)
-
     -   stärkere Öffentlichkeit
 
 -   Feindselige politische Diskussionen sind von Status motivierten Individuen angetrieben, die politisch motiviert sind, und online und offline gleich feindselig sind, aber online sichtbarer sind. [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885).
@@ -261,7 +201,7 @@ Positiv:
 
 -   Zum Teil trägt auch das Design von Platformen bei: Nur Likes, nicht Non-Likes sind möglich. Es sind nur Menschen sichtbar, die Hassrede liken. Der Poster glaubt er hat Unterstützung, und das Opfer sieht potentielle Allierte nicht. Sozile Medien werden als negativere Umgebung wahrgenommen, als sie tatsächlich sind. [Konolova et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293805)
 
-## Ist der Mensch nicht für Online gemacht? Weniger Evidenz. 
+## Ist der Mensch nicht für Online gemacht? Weniger Evidenz.
 
 -   Wir sind für Interaktion in kleinen sozialen Gruppen gemacht. Für Kommunikation mit non-verbalen Signalen.
 
@@ -276,11 +216,8 @@ Positiv:
 -   Anonymität, Distanz, weniger persönliche Information:
 
     -   physische und psychologische Distanz sind größer
-
     -   keine Face-to-Face Interaktion (Empathie entsteht durch Nähe), und Empathie wirkt gegen Aggression
-
     -   keine non-verbalen Signale
-
     -   Daraus resultiert ein online Emotionsregulationsproblem: normale Menschen sind online aggressiver
 
 -   Größe von sozialen Netzwerken online: riesige Menge an extremem moralischen Inhalten [Robertson et al., 2024](https://osf.io/preprints/psyarxiv/ns34y)
@@ -304,28 +241,86 @@ Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status
 ## Echokammern reduzieren? Keine gute Idee
 
 -   Stärke von Echokammern variiert sehr zwischen verschiedenen Usern (Nyhan et al., 2023)
-
     -   Nur 20.6% der Facebook User bekommen über 75% der Nachrichten aus gleichgesinnten Quellen
     -   Bei 23.1% der User sind weniger als 25% der gesehenen News von gleichgesinnten Quellen
     -   But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives (Gonzalez et al., 2023)
 
--   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. (Bail et al. 2018)
+-   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. [Bail et al. 2018](https://www.pnas.org/doi/abs/10.1073/pnas.1804840115)
 
--   Wenn wir über soziale Medien allerdings moderate Meinungen mitbekommen, moderate Mitglieder anderer Gruppen, kann das in einem stark politisch polarisierten Klima auch Gefühle der Polarisierung verringern. (Bosnia Herzegowina: stärkere affektive Polarisierung nach social media Abstinenz.)
+-   Wenn wir über soziale Medien allerdings moderate Meinungen mitbekommen, moderate Mitglieder anderer Gruppen, kann das in einem stark politisch polarisierten Klima auch Gefühle der Polarisierung verringern. 
+  - Bosnia Herzegowina: stärkere affektive Polarisierung nach social media Abstinenz [Asimovic et al., 2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
+
+# Was ist Hassrede?
+
+"Äußerungen, die beleidigend, respektlos oder übermäßig negativ sind oder die eine Person oder Gruppe aufgrund von Merkmalen wie Rasse, ethnischer Zugehörigkeit, Geschlecht, sexueller Orientierung, Nationalität und Religion angreifen oder herabsetzen"
+
+::: footer
+[Siegel & Badaan 2020](https://EconPapers.repec.org/RePEc:cup:apsrev:v:114:y:2020:i:3:p:837-855_15); [Windisch et al. 2022](https://doi.org/10.1002/cl2.1243)
+:::
+
+# Wie groß ist das Problem der Hassrede auf sozialen Medien?
+
+Ergebnis Nr 1: Sehr wenige Daten. Keine Eingikeit bei der Definition.
+
+Warum?
+
+## Datenlage und Gesetze
+
+-   Gesetzeslage in der EU, Deutschland und Österreich ändert sich erst in den letzten Jahren, Oft noch keine Zahlen zu vor 2020.
+    -   Netzwerkdurchsetzungsgesetz (NetzDG) erst seit 2017 in Deutschland
+    -   [Extending EU crimes to hate speech and hate crime](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/extending-eu-crimes-hate-speech-and-hate-crime_en): 2021
+    -   erster Polizei Report Österreich aus 2021
+
+## Was sagen die wenigen Daten?
+
+-   Österreich: ca 20% aller registrierten "Hate Crimes" waren 2021 im Internet [Report Bundesministerium](https://www.bmi.gv.at/408/Projekt/files/218_2021_Hate_Crime_Bericht_2021_GESAMT_V20220510_barrierefrei.pdf): besonders antisemitische Verhetzung, auch Hautfarbe, Weltanschauen, Behinderung zu ca 25-30% online.
+-   Hate Crime on & offline in 2021: 61 Straftaten/100.000 Einwohner (5464 gesamt)
+- Unklar welche Rolle hier Social Media spielen, und wie sich das über die Zeit verändert hat
+
+## Schätzung aus internationalen Studien:
+
+-   2020 study found 1150 online hate communities ([Lupu et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278511))
+-   Hassreade in diesen Communities 2019-2020: 30% - das ist eine Obergrenze, höher wird es nirgends.
+
+![](images/journal.pone.0278511.g002.PNG)
+
+### Hassrede rund um politische Nachrichten und Postings
+
+-   Germany: [Haim & Hoven, 2022](https://journalqd.org/article/view/3528)
+
+-   Sehr breite großzügige Definition von Hate Speech. Zu breit?
+
+    -   z.B. zu den Versäumnissen der Regierung "Sowas nenne ich asozial."
+    -   z.B. "Die Kinder hätten nicht so werden müssen, da haben alle Ämter über Jahrzehnte versagt!"
+    
+- Achtung: Politische Nachrichten machen nur einen sehr kleinen Teil der Social Media Inhalte aus (2.7%, siehe unten)
+
+### Ergebnisse Haufigkeit Hassrede
+
+-   Kommentare unter Artikeln zu "Klima" in 4 großen Nachrichtenforen (Welt, TAZ, FAZ, Zeit): 23%
+-   YouTube comments zu Videos lokaler Politiker: 15%
+-   Tweets von/an Parlament Politikern: 20%
+-   Großteil "Schlechtreden von Ideen und Verhalten"
+-   3-4% sind Beleidigungen
+
+![](images/Haim2022_Youtube_hate_speech.svg)
+
+### Anteil politischer Inhalte auf (sozialen) Medien
+
+-   2.7% aller Videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
+-   In Kommentaren dazu ca 15% Hassrede ([Haim & Hoven, 2022](https://journalqd.org/article/view/3528))
+
+![](images/McGrady2023_Youtube_video_categories.png)
 
 # Überlappung mit Misinformation
 
 -   Harmful speech overlaps with misinformation sharing ([Mosleh et al., 2024](https://doi.org/10.1093/pnasnexus/pgae111))
-
 -   US study for 1 week ([Lin et al, 2024](https://osf.io/preprints/psyarxiv/u8anb))
-
 -   In a representative sample of US Facebook users (350.000?), only 5% shared any misinformation
-
 -   Among people who previoulsy shared low-quality news, 70% shared low-quality news
-
 -   General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
 
-# Algorithmen:
+# Rolle von Algorithmen:
 
 US 2020 Facebook and Instagram election Study
 
