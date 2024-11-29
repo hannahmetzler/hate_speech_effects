@@ -1,9 +1,11 @@
 ---
 title: "Die Rolle von sozialen Medien in öffentlichen Debatten: Wut & Hassrede"
-author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/hate_speech_effects"
+subtitle: "Recherche Notizen für die ORF Dokumentation Dok 1: Jeder gegen Jeden, Österreich rastet aus"
+author: "Hannah Metzler"
 date: "18 April 2024"
 format: 
   html:
+    toc: true
   # revealjs: 
   #   seal: false
   #   transition: 'slide'
@@ -22,32 +24,23 @@ title-slide-attributes:
 editor: visual
 ---
 
-# Haben Wut und Agression auf den sozialen Medien einen Effekt auf Diskussionen und Verhalten in der Offline Welt?
+# Haben Wut und Agression in den sozialen Medien einen Effekt auf Diskussionen und Verhalten in der Offline Welt?
 
-## Interview Fragen mit Stichwort-Antworten
+- Was machen Soziale Medien mit unserer Debattenkultur?
+- Woher kommt die Wut der Menschen - wird diese möglicherweise online geschürt?
+- Gab es die Wut immer schon und hat sie online nur ein Sprachrohr gefunden?
 
--   Was machen Soziale Medien mit unserer Debattenkultur?
+In der ORF Dokumentation [Jeder gegen Jeden? Österreich rastet aus](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden), die auch online verfügbar ist, spreche ich über diese Fragen. Zur Vorbereitung habe ich mich intensive mit der Datenlage zu diesem Thema beschäftigt, die Übersicht meiner Ergebnisse findet ihr hier. 
 
-    -   Verzerren der Wirkichkeit: Extreme Meinungen und Emotionen werden sichtbar
-    -   Individuen, die Anerkennung und Status wollen, und bereit sind, durch Aggression und Einschüchterung dorthin zu kommen, fühlen sich von sozialen Medien angezogen
-    -   Aggressives Verhalten hat online weniger Konsequenzen (Strafen etc)
-    -   Verzerrtes Bild der Wirklichkeit:
-        -   Aggressive Individuen sind besonders sichtbar
-        -   Mehr emotionale Polarisierung, Hass auf andere Gruppen, ohne tatsächliche Meinungs-Polarisierung
+---
 
--   Woher kommt die Wut der Menschen - wird diese möglicherweise online geschürt?
+Soziale Medien haben unsere Debattenkultur fundamental verändert, indem sie eine Kommunikationsumgebung schaffen, die extreme Meinungen und intensive Emotionen besonders sichtbar macht. Die Plattformen bieten Menschen, die Anerkennung und Status durch aggressive Kommunikation suchen, eine ideale Bühne, da aggressives Verhalten online weniger Konsequenzen nach sich zieht als in persönlichen Begegnungen.
+Dieser digitale Raum verzerrt die Wahrnehmung der Realität, indem aggressive und polarisierende Individuen besonders viel Aufmerksamkeit bekommen - von den Medien, und anderen Social Media Usern. Die Folge ist eine zunehmende emotionale Spaltung, bei der sich verschiedene gesellschaftliche Gruppen immer mehr ablehen gegenseitig. Diese emotionale Spaltung entspricht nicht unbedingt einer tatsächlichen Meinungsverschiedenheit. Die inhaltliche Polarisierung zu Themen wie Homosexualität, Klimawandel, Abtreibung usw. ist oft viel geringer, als uns die gefühlte Spaltung glauben lässt. Social Media verstärken vor allem diese emotionale und soziale Dynamik.
 
-    -   Sie kommt aus Konflikten in der realen Welt, wird aber online stärker sichtbar. Diese Sichtbarkeit verstärkt den (falschen) Eindruck, dass alle wütend sind.
-    -   Welche Individuen sind wütend und aggressiv?
-        -   Verlust von Status in der aktuellen Gesellschaft (junge Männer)
-        -   Angst vor Verlust von Privilegien (Auto als Status Symbol - Klimawandel)
-        -   Rechte politische Parteien profitieren von dieser Frustration
+Die Wut der Menschen hat ihre Wurzeln in realen gesellschaftlichen Konflikten, wird aber durch soziale Medien verstärkt und sichtbarer gemacht. Diese digitale Sichtbarkeit erweckt den Eindruck, dass die gesamte Gesellschaft von Frustration und Zorn durchdrungen ist, obwohl dies nicht der Realität entspricht.
+Besonders betroffen sind Gruppen, die einen Statusverlust in der aktuellen Gesellschaft wahrnehmen - allen voran junge Männer, die sich durch gesellschaftliche Veränderungen marginalisiert fühlen. Konkrete Ängste, wie der mögliche Verlust von Privilegien, beispielsweise durch Klimaschutzmaßnahmen, die traditionelle Statussymbole wie das Auto in Frage stellen, befeuern diese Wut. Rechte politische Parteien nutzen gezielt diese Frustration und Verunsicherung, um Zuspruch zu generieren und gesellschaftliche Spannungen weiter zu verstärken.
 
--   Gab es die Wut immer schon und hat sie online nur ein Sprachrohr gefunden?
-
-    -   Es gab immer schon gesellschaftliche Konflikte. Social Media machen Debatten darüber sichtbar, und rücken diese sogar zu sehr in's Zentrum.
-    -   Menschen die zufrieden sind, und beide Seiten einer Debatte verstehen können, melden sich dort nicht zu Wort. Die "leise Mehrheit"
-    -   Für aggressive, nach Status strebende Menschen bieten sich online neue Möglichkeiten
+Gesellschaftliche Konflikte sind keine Erfindung des digitalen Zeitalters, die gab es immer schon. Social Media habend diese Debatten jedoch viel sichtbarer gemacht. Die dort herrschende Aufmerksamkeitsökonomie rückt Wut und Konflikte übermäßig in den Mittelpunkt. Extreme und hasserfüllte Stimmen bekommen zu viel Aufmerksamkeit. Die nuancierte, vermittelnde Perspektive wird dabei meist unsichtbar: Menschen, die zufrieden sind und verschiedene Standpunkte verstehen können, bleiben in der Online-Kommunikation häufig stumm - die sogenannte "leise Mehrheit" zieht sich zurück. Gleichzeitig finden aggressive, nach Anerkennung und Status strebende Individuen (und populistische Parteien, die diese Problemlage ausnutzen), in sozialen Medien neue Möglichkeiten, ihre Narrative und Frustrationen zu inszenieren und zu verbreiten.
 
 
 # Wissenschaftliche Datenlage zu den möglichen Effekte von sozialen Medien und Internet
@@ -58,10 +51,6 @@ editor: visual
 -   Medien können für gute und schlechte Zwecke verwendet werden
 -   Social Medien sind noch etwas komplizierter, weil User Information teilen, nicht Medien selbst
     -   Macht der Platformen liegt im Steuern des Informationsflusses
-
-::: footer
-[Lorenz-Spreen et al., 2022](https://www.nature.com/articles/s41562-022-01460-1)
-:::
 
 ### Positive Effekte:
 
@@ -78,11 +67,13 @@ editor: visual
 -   Online Hassrede
 -   Vertrauen in Institutionen
 
-# Kausalität
+::: footer
+[Lorenz-Spreen et al., 2022](https://www.nature.com/articles/s41562-022-01460-1)
+:::
 
--   Fast alle Studien sind Korrelationen (Experimente sind nicht möglich)
+# Verursachen soziale Medien kausal Wut & Hass in der Gesellschaft? Oder spiegeln Sie negative Emotionen, die es sowieso gibt?
 
--   Während Anstieg der Nutzung sozialer Medien seit 2005 haben sich auch viele andere Dinge verändert, die die Debattenkultur verändern könnten.
+Fast alle Studien messen nur Korrelationen (Experimente sind nicht möglich). In welche Richtung der Einfluss geht, ist in diesen Studien nicht ablesbar. Während Anstieg der Nutzung sozialer Medien seit 2005 haben sich auch viele andere Dinge verändert, die die Debattenkultur verändern könnten.
 
     -   Klimawandel
     -   Populismus (Haider etc. gab es schon davor)
@@ -96,8 +87,7 @@ editor: visual
 
 1.  Gibt es einen Anstieg von Anfeindungen, Polarisierung und Aggression?
 2.  Was sind die Ursachen des Anstiegs?
-
--   Wann hat der Anstieg begonnen?
+    -  Hinweise darauf (aber keine kausalen Zusammenhänge): Wann hat der Anstieg begonnen?
 
 ## 1. Frage: Ist Aggression und Anfeindung mehr geworden?
 
@@ -205,7 +195,7 @@ Positiv:
 
 -   Wir sind für Interaktion in kleinen sozialen Gruppen gemacht. Für Kommunikation mit non-verbalen Signalen.
 
--   Bor & Petersen 2022 finden keine Evidenz für die Hypothese, dass die Online Umgebung und diejenige, and die Menschen adaptiert sind, nicht zusammen passen
+-   [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885) finden keine Evidenz für die Hypothese, dass die Online Umgebung und diejenige, and die Menschen adaptiert sind, nicht zusammen passen
 
 -   Selektionshypothese: Bösartige Individueen nützen Social Media mehr, weil ihr Verhalten dort weniger Folgen hat (Strafe nicht wahrscheinlich, Anonymität, keine physische Nähe, [Bor & Petersen 2022](https://doi.org/10.1017/S0003055421000885)).
 
@@ -233,17 +223,19 @@ Positiv:
 -   Wettbewerb von Gruppen auf sozialen Medien (wenig persönliche Information, Anonymität)
 
 ::: notes
-Chris Bail: Social Media Prism
+Quellen: 
+[Chris Bail: Breaking the Social Media Prism](https://www.amazon.de/Breaking-Social-Media-Prism-Polarizing/dp/0691203423)
 
-Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status-seeking and extreme political discontent. In: Forgas JP, Crano WD, editors. The psychology of populism. Milton Park, Abingdon, Oxfordshire: Routledge. p. 62–80.
+{Petersen, Osmundsen & Bor, 2021](https://psycnet.apa.org/record/2021-22020-004). [Open Access 
+preprint](https://osf.io/preprints/psyarxiv/puqzs)
 :::
 
 ## Echokammern reduzieren? Keine gute Idee
 
--   Stärke von Echokammern variiert sehr zwischen verschiedenen Usern (Nyhan et al., 2023)
+-   Stärke von Echokammern variiert sehr zwischen verschiedenen Usern ([Nyhan et al., Nature, 2023](https://www.nature.com/articles/s41586-023-06297-w))
     -   Nur 20.6% der Facebook User bekommen über 75% der Nachrichten aus gleichgesinnten Quellen
     -   Bei 23.1% der User sind weniger als 25% der gesehenen News von gleichgesinnten Quellen
-    -   But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives (Gonzalez et al., 2023)
+    -   But there is a problem with misinformation/untrustworthy news on Facebook, mostly for conservatives ([Gonzalez-Bailon et al, Science, 2023](https://www.science.org/doi/10.1126/science.ade7138))
 
 -   Argument gegen zu starke Auflösung von Echo Kammern: Wenn wir die extremen Haltungen der Gegenseite sehen, können wir sie oft nicht einordnen. Uns fehlt der Kontext. Wir fühlen uns angegriffen, und reagieren defensiv: Polarisierung verstärkt sich. [Bail et al. 2018](https://www.pnas.org/doi/abs/10.1073/pnas.1804840115)
 
@@ -260,9 +252,7 @@ Petersen MB, Osmundsen M, Bor A. 2021. Beyond populism: the psychology of status
 
 # Wie groß ist das Problem der Hassrede auf sozialen Medien?
 
-Ergebnis Nr 1: Sehr wenige Daten. Keine Eingikeit bei der Definition.
-
-Warum?
+Hauptergebnis: Sehr wenige Daten. Keine Eingikeit bei der Definition. Warum?
 
 ## Datenlage und Gesetze
 
@@ -342,11 +332,13 @@ US 2020 Facebook and Instagram election Study
 Die Rolle von Menschen:
 
 -   suchen aktiv gleichgesinnte Inhalt und Gruppen. Downranking reduzierte das Lesen von gleichgesinnten Inhalten nur von 54% in der Kontrollgruppe auf 36% in der Algorithmus-Gruppe.
--   suchen Partisan Inhalte auf Google (Robertson et al. (2023))
+-   suchen Partisan Inhalte auf Google [Robertson et al. (2023)](https://www.nature.com/articles/s41586-023-06078-5)
 
 ::: footer
-[Nyhan et al., Nature, 2023: downranking content from like-minded sources](https://www.nature.com/articles/s41586-023-06297-w)
-[Guess et al., Science, 2023: removing re-shared content from the feed](https://www.science.org/doi/10.1126/science.add8424)
-[Guess et al., Science, 2023: reverse chronological order](https://www.science.org/doi/full/10.1126/science.abp9364)
-[Gonzalez-Bailon et al, Science, 2023](https://www.science.org/doi/10.1126/science.ade7138)
+Wichtige Quellen zu Algorithmen:
+
+- [Nyhan et al., Nature, 2023](https://www.nature.com/articles/s41586-023-06297-w)
+- [Guess et al., Science, 2023: removing re-shared content from the feed](https://www.science.org/doi/10.1126/science.add8424)
+- [Guess et al., Science, 2023: reverse chronological order](https://www.science.org/doi/full/10.1126/science.abp9364)
+- [Gonzalez-Bailon et al, Science, 2023](https://www.science.org/doi/10.1126/science.ade7138)
 :::
